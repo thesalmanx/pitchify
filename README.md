@@ -57,8 +57,8 @@ reusability
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/thesalmanx/startup-directory.git
-cd startup-directory
+git clone https://github.com/thesalmanx/pitchify.git
+cd pitchify
 ```
 
 **Installation**
