@@ -37,6 +37,9 @@ const Page = async ({ params }: { params: Promise<{ id: string }> }) => {
           <p className="text-30-extrabold mt-7 text-center">
             @{user?.username}
           </p>
+          <p className="text-30-extrabold mt-7 text-center">
+            @{user?.username}
+          </p>
           <p className="mt-1 text-center text-14-normal">{user?.bio}</p>
         </div>
 
